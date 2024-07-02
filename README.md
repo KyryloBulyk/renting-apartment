@@ -46,6 +46,7 @@ Ensure you have the following installed:
 
 ## 🛠️ Project Structure
 
+```text
 house-prices-prediction/
 │
 ├── house-prices-advanced-regression-techniques/
@@ -56,6 +57,7 @@ house-prices-prediction/
 ├── README.md
 ├── requirements.txt
 └── .gitignore
+```
 
 
 ## 🔍 Data Exploration and Preprocessing
